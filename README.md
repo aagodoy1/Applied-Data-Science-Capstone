@@ -1,2 +1,2 @@
 # Applied-Data-Science-Capstone
-This repo the Applied Data Science Capstone of coursera answers
+This repo has the Applied Data Science Capstone of coursera answers
